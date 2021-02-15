@@ -10,7 +10,7 @@ The [notebook](https://github.com/A2Amir/Machine-Translation/blob/main/Machine%2
    - Prediction: **To use the trained model to make prediction on test dataset.**
 
 
-In the **Model section**, I will experiment with various neural network architectures. I will begin by training four relatively simple architectures.
+In the **Models section**, I will experiment with various neural network architectures. I will begin by training four relatively simple architectures.
 
    - Model 1 is a simple GRU
    - Model 2 is a GRU with Embedding
